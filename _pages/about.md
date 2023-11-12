@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-### Let me try a prova
+I am an **applied economist** applying causal inference designs and machine learning tools to spatial questions in environmental and development economics using remotely sensed information and large georeferenced datasets. 
 
- with some lorem ipsum text
+I am currently a **Postdoctoral Research Officer** at the [Grantham Research Institute for Climate Change and the Environment](https://www.lse.ac.uk/granthaminstitute/) and a **Visiting Research Fellow** at the [London School of Economics and Political Science](https://www.lse.ac.uk/geography-and-environment). I obtained my **PhD** ...
 
-### and then a prova prova
+My current research has two main directions. On the one hand, I work on the implications of market-based instruments for climate mitigation in terms of **GHG emissions reductions**, **air quality co-benefits** and **environmental justice**, with an emphasis on the spatially differentiated distributional impacts of carbon taxation. In parallel, I study the impact of economic shocks and policies on the **dynamics of deforestation** in tropical countries, focussing on issues of **additionality and carbon leakage**. I have recently started working on the **economics of biodiversity**, and on the relationship between **tropical ecosystem conservation and restoration** and **poverty alleviation**.
 
-with some other text
