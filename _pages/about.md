@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Welcome to my website!
+## Welcome to my website!
 
 I am an **applied economist** focussing on spatial questions in environmental and development economics. In my work, I apply causal inference designs and machine learning tools to remotely sensed information and large georeferenced datasets. 
 
