@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+### Welcome to my website!
 
 I am an **applied economist** focussing on spatial questions in environmental and development economics. In my work, I apply causal inference designs and machine learning tools to remotely sensed information and large georeferenced datasets. 
 
