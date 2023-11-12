@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lorenzo Sileci"
 title_separator          : "-"
 name                     : &name "Lorenzo Sileci"
-description              : &description "Test Prova Test"
+description              : &description "Postdoctoral Research Officer at the LSE Grantham Research Institute on Climate Change and the Environment"
 url                      : https://el-chinosauro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "el-chinosauro/el-chinosauro.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Lorenzo Sileci"
   avatar           : "profile.png"
-  bio              : "test prova test"
-  location         : "London, Florence"
+  bio              : "Postdoctoral Research Officer at the LSE Grantham Research Institute on Climate Change and the Environment"
+  location         : "London, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X1mSLvcAAAAJ&hl=it&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/el_chinosauro"
+  twitter          : "el_chinosauro"
   vine             :
   weibo            :
   xing             :
