@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+[Full CV](el-chinosauro.github.io/files/lorenzosileci_cv_november_2023.pdf)
+
+### Current Employment
+
+* Postdoctoral Research Officer, Grantham Research Institute for Climate Change and the Environment
+
+### Education
+
+* 2018-2023 PhD in Environmental Economics, London School of Economics and Political Science
+* 2016-2017 MSc in Environmental Economics and Climate Change, London School of Economics and Political Science
+* 2015 Postgraduate Coursework Exchange Program, University of Sydney
+* 2011-2014 BSc in Economics and Trade, University of Florence
 
 Work experience
 ======
