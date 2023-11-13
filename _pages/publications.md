@@ -20,9 +20,9 @@ author_profile: true
 
 * [**Carbon emissions reductions from Indonesia’s moratorium on forest concessions are cost-effective yet contribute little to Paris pledges**](https://www.pnas.org/doi/10.1073/pnas.2102613119) (with Ben Groom and Charles Palmer). _Proceedings of the National Academy of the Sciences (PNAS)_, Volume 119 (5), February 2022. **Media:** [CNN](https://edition.cnn.com/2022/01/26/world/indonesia-norway-forests-emissions-climate/index.html){: .btn--publications} and [Others](https://pnas.altmetric.com/details/121515870/news){: .btn--publications}
 
-* [Global COVID-19 lockdown highlights humans as both threats and custodians of the environment](https://www.sciencedirect.com/science/article/pii/S0006320721002275) (with A. Bates _et al._). _Biological Conservation_, Volume 263, November 2021. 
+* [**Global COVID-19 lockdown highlights humans as both threats and custodians of the environment**](https://www.sciencedirect.com/science/article/pii/S0006320721002275) (with A. Bates _et al._). _Biological Conservation_, Volume 263, November 2021. 
 
-* [The Unintended Impact of Colombia’s Covid-19 Lockdown on Forest Fires](https://link.springer.com/article/10.1007/s10640-020-00501-5) (with Mónica Amador-Jiménez, Naomi Millner, Charles Palmer, and R. Toby Pennington) _Environmental and Resource Economics (ERE)_, Volume 76, August 2020. **Media:** [VICE News](https://www.vice.com/en/article/wxq3v5/the-end-of-colombias-civil-war-had-an-unintended-effect-deforestation){: .btn--publications}
+* [**The Unintended Impact of Colombia’s Covid-19 Lockdown on Forest Fires**](https://link.springer.com/article/10.1007/s10640-020-00501-5) (with Mónica Amador-Jiménez, Naomi Millner, Charles Palmer, and R. Toby Pennington) _Environmental and Resource Economics (ERE)_, Volume 76, August 2020. **Media:** [VICE News](https://www.vice.com/en/article/wxq3v5/the-end-of-colombias-civil-war-had-an-unintended-effect-deforestation){: .btn--publications}
 
 
 ## Work in progress
