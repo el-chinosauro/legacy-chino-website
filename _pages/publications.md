@@ -16,7 +16,7 @@ author_profile: true
 
 ## Publications
 
-* [Carbon emissions reductions from Indonesia’s moratorium on forest concessions are cost-effective yet contribute little to Paris pledges](https://www.pnas.org/doi/10.1073/pnas.2102613119) (with Ben Groom and Charles Palmer). _Proceedings of the National Academy of the Sciences (PNAS)_, Volume 119 (5), February 2022. **Media:** [CNN](https://edition.cnn.com/2022/01/26/world/indonesia-norway-forests-emissions-climate/index.html) and [others](https://pnas.altmetric.com/details/121515870/news)
+* [**Carbon emissions reductions from Indonesia’s moratorium on forest concessions are cost-effective yet contribute little to Paris pledges**](https://www.pnas.org/doi/10.1073/pnas.2102613119) (with Ben Groom and Charles Palmer). _Proceedings of the National Academy of the Sciences (PNAS)_, Volume 119 (5), February 2022. **Media:** [CNN](https://edition.cnn.com/2022/01/26/world/indonesia-norway-forests-emissions-climate/index.html) and [others](https://pnas.altmetric.com/details/121515870/news)
 
 * [Global COVID-19 lockdown highlights humans as both threats and custodians of the environment](https://www.sciencedirect.com/science/article/pii/S0006320721002275) (with A. Bates _et al._). _Biological Conservation_, Volume 263, November 2021. 
 
