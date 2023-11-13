@@ -7,7 +7,7 @@ redirect_from:
   - /teaching
 ---
 
-## Teaching Experience
+# Teaching Experience
 
 ## Graduate Teaching Assistant
 * **Winter Term 2023**: GY222 Applied Environmental Economics (Undergraduate)
