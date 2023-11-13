@@ -1,19 +1,27 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Working Papers
 
-{% include base_path %}
+* **Carbon Pricing with Regressive Co-benefits: Evidence from British Columbia’s Carbon Tax** (Job Market Paper)
+<details><summary> Abstract </summary>
+</details>
+* **Policy Layering and Biodiversity Additionality in Indonesia**, with Ben Groom, Charles Palmer and Steve Langton
+<details><summary> Abstract </summary>
+</details>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Publications
+
+* **More Than Just Carbon: The Socioeconomic Impact of Large-Scale Tree Planting**, with Jeffrey Pagel
+* **Oil Spills, Agricultural Production and Deforestation in Nigeria**, with Elena Perra and Marco Sanfilippo
+* **Policy Layering and Biodiversity Additionality in Indonesia**, with Ben Groom and Charles Palmer
+* **Carbon Pricing in Presence of Permeable Borders: The Case of British Columbia’s 2008 Carbon Tax**
+
+
 
 
 ### Work in progress
