@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: 
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+# Research
 
 ## Working Papers
 
