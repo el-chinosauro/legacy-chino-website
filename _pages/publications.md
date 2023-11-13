@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Research
-
 ## Working Papers
 
 * **Carbon Pricing with Regressive Co-benefits: Evidence from British Columbia’s Carbon Tax** [Job Market Paper](https://el-chinosauro.github.io/files/LS_BC_GRI_WP.pdf){: .btn--publications}
