@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome to my website!
 
-I am an **environmental economist** focussing on the spatial and distributional impacts of climate policy. 
+I am an **environmental economist** focussing on the spatial and distributional impacts of climate policy in the **transportation** and **land use** sectors. 
 
 I am a **Postdoctoral Research Officer** at the [Grantham Research Institute on Climate Change and the Environment](https://www.lse.ac.uk/granthaminstitute/) and a **Visiting Research Fellow** at the [London School of Economics and Political Science](https://www.lse.ac.uk/geography-and-environment). I completed my **PhD in Environmental Economics** at the LSE in April 2023.
 
