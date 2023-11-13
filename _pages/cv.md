@@ -11,7 +11,7 @@ redirect_from:
 
 ### Current Employment
 
-* Postdoctoral Research Officer, Grantham Research Institute for Climate Change and the Environment
+* Postdoctoral Research Officer, Grantham Research Institute on Climate Change and the Environment
 
 ### Education
 
@@ -24,5 +24,5 @@ redirect_from:
 
 * 2022-2023: Graduate Teaching Assistant, London School of Economics and Political Science
 * 2020-2021: Research Associate, Robert Schuman Centre for Advanced Studies, European University Institute
-* 2017-2018: Research Assistant, Grantham Research Institute for Climate Change and the Environment
+* 2017-2018: Research Assistant, Grantham Research Institute on Climate Change and the Environment
 * 2017-2018: Research Assistant, London School of Economics and Political Science
