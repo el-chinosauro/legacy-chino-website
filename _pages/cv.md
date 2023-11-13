@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV](el-chinosauro.github.io/files/lorenzosileci_cv_november_2023.pdf)
+[Full CV](files/lorenzosileci_cv_november_2023.pdf)
 
 ### Current Employment
 
