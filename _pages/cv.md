@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Full CV](https://el-chinosauro.github.io/files/lorenzosileci_cv_november_2023.pdf)
+[Full CV](http://el-chinosauro.github.io/files/lorenzosileci_cv_november_2023.pdf)
 
 ### Current Employment
 
