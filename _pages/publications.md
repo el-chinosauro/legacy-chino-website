@@ -27,7 +27,7 @@ author_profile: true
 * [**The Unintended Impact of Colombia’s Covid-19 Lockdown on Forest Fires**](https://link.springer.com/article/10.1007/s10640-020-00501-5) (with Mónica Amador-Jiménez, Naomi Millner, Charles Palmer, and R. Toby Pennington) _Environmental and Resource Economics (ERE)_, Volume 76, August 2020. **Media:** [VICE News](https://www.vice.com/en/article/wxq3v5/the-end-of-colombias-civil-war-had-an-unintended-effect-deforestation){: .btn--publications}
 
 
-## Work in progress
+## Selected work in progress
 
 * **More Than Just Carbon: The Socioeconomic Impact of Large-Scale Tree Planting**, with Jeffrey Pagel
 * **Oil Spills, Agricultural Production and Deforestation in Nigeria**, with Elena Perra and Marco Sanfilippo
