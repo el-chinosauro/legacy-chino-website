@@ -16,3 +16,5 @@ I am a **Postdoctoral Research Officer** at the [Grantham Research Institute on 
 
 My research investigates the implications of market-based climate instruments in terms of **air quality** and **environmental justice**, with an emphasis on the distribution of co-benefits from carbon taxation. In parallel, I study the impact of layered economic shocks and policies on the **dynamics of deforestation and forest fires** in tropical countries, focussing on issues of **additionality and carbon leakage**. I have recently started working on the **economics of biodiversity**, on the relationship between **tropical ecosystem conservation and restoration** and **poverty alleviation**, and on the interplay between polluting industries, agriculture and **natural resources**. My work has so far been published on *PNAS*, *Environmental and Resource Economics*, and *Biological Conservation*.
 
+You can contact me at l.sileci(at)lse.ac.uk.
+
